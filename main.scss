@@ -1,0 +1,18 @@
+//reset stylesheet
+@import 'scss/reset';
+
+//common stylesheet
+@import "scss/swiper";
+@import 'scss/common';
+
+//component stylesheet
+@import "scss/calendar";
+@import "scss/iSwiper";
+@import "scss/slideSelector";
+@import "scss/dialog";
+
+//dev stylesheet
+@import 'scss/index';
+@import 'scss/list';
+@import 'scss/detail';
+@import 'scss/order';
